@@ -2,6 +2,7 @@
 _Made for CS3700, Networks and Distributed Systems._
 
 __NOTE__: I cannot publicly post this unless requested specifically.
+Please email rkwong12@gmail.com to see the source code.
 
 This is a simple socket program that communicates with a server that delegates string counting or sorting tasks.
 Socket is run on a TCP (Transmission Control Protocol) bound port (27993 default) and accepts these commands:
