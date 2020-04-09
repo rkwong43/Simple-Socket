@@ -1,7 +1,7 @@
 # Simple-Socket
 _Made for CS3700, Networks and Distributed Systems._
 
-##NOTE##: I cannot publicly post this unless requested specifically.
+__NOTE__: I cannot publicly post this unless requested specifically.
 
 This is a simple socket program that communicates with a server that delegates string counting or sorting tasks.
 Socket is run on a TCP (Transmission Control Protocol) bound port (27993 default) and accepts these commands:
